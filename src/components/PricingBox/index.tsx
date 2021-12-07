@@ -38,7 +38,7 @@ const PricingBox = () => (
     >
       <p>Se inscreva agora</p>
       <div>
-        <S.ButtonDiscountPrice>AOA 36.000</S.ButtonDiscountPrice>
+        <S.ButtonDiscountPrice>AOA 45.000</S.ButtonDiscountPrice>
       </div>
     </Button>
   </S.Box>
